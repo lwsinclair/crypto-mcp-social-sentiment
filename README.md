@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/hive-intel-crypto-mcp-social-sentiment-badge.png)](https://mseep.ai/app/hive-intel-crypto-mcp-social-sentiment)
+
 # Hive MCP Social Sentiment
 
 ## Overview
